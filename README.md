@@ -1,8 +1,8 @@
-# 💚 Carlos Tavares
+# 👨‍💻 Carlos Tavares
 
 **`Full‑stack developer`**
 
-👨‍💻 I’m a full‑stack developer from Rio de Janeiro focused on building fast, reliable products with clean, modern code. In the last few years I’ve been working on web platforms, internal tools, AI agents and automations that sit close to real business operations, helping teams replace scattered spreadsheets and manual work with software that actually supports their day to day.
+I’m a full‑stack developer from Rio de Janeiro focused on building fast, reliable products with clean, modern code. In the last few years I’ve been working on web platforms, internal tools, AI agents and automations that sit close to real business operations, helping teams replace scattered spreadsheets and manual work with software that actually supports their day to day.
 
 I like taking a problem from idea to production: understanding the domain, modelling APIs and data, designing clear user flows and then shipping the frontend, backend and cloud pieces that hold everything together. My work usually envolve translating messy, manual processes into clear interfaces and predictable systems that people can trust.
 
